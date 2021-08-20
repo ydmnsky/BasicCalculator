@@ -1,0 +1,4 @@
+#Fri Aug 20 22:11:29 KRAT 2021
+base.0=C\:\\MyApps\\Basic Calculator\\Basic Calculator\\task\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
