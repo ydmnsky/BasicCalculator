@@ -499,6 +499,9 @@ files:
   visible: false
   text: sdk=28
   learner_created: false
+- name: src/main/res/layout/a1.xml
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/190/stages/952/implement#comment
 status: Solved
 feedback:
