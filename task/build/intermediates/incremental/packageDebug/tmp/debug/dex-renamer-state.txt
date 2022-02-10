@@ -1,4 +1,4 @@
-#Fri Aug 20 22:11:26 KRAT 2021
+#Thu Feb 10 16:42:25 MSK 2022
 base.1=C\:\\MyApps\\Basic Calculator\\Basic Calculator\\task\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
 path.1=classes.dex
 base.0=C\:\\MyApps\\Basic Calculator\\Basic Calculator\\task\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
